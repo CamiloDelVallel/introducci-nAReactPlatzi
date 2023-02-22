@@ -56,19 +56,6 @@ function TodoProvider(props){
         saveTodos(newTodos);
       }
 
-
-
-    
-      // const createTodo = (text)=>{
-      //   const newTodos = [...todos];
-      //   newTodos.push(text);
-      //   setItem(newTodos);
-      //   alert('hola')
-      // }
-      // React.useEffect(()=>{
-      //   // console.log('useEfect')
-      // },[totalTodos]);
-
     return(
         <TodoContext.Provider value={{
             loading,

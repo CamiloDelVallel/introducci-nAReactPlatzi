@@ -30,9 +30,6 @@ function AppUI()  {
           {error && <p>Pailas, error</p>}
           {loading && <p>Estamos cargando, no desdesperes</p>}
           {(!loading && !searchedTodos.length) && <p>Crea tu primer TODO</p>}
-
-          
-          
           {searchedTodos.map(todo => ( 
             <TodoItem
               key={todo.text}
