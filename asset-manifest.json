@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/introducci-nAReactPlatzi/static/css/main.75011838.css",
-    "main.js": "/introducci-nAReactPlatzi/static/js/main.dc508a2d.js",
+    "main.js": "/introducci-nAReactPlatzi/static/js/main.213fc9b2.js",
     "index.html": "/introducci-nAReactPlatzi/index.html",
     "main.75011838.css.map": "/introducci-nAReactPlatzi/static/css/main.75011838.css.map",
-    "main.dc508a2d.js.map": "/introducci-nAReactPlatzi/static/js/main.dc508a2d.js.map"
+    "main.213fc9b2.js.map": "/introducci-nAReactPlatzi/static/js/main.213fc9b2.js.map"
   },
   "entrypoints": [
     "static/css/main.75011838.css",
-    "static/js/main.dc508a2d.js"
+    "static/js/main.213fc9b2.js"
   ]
 }
